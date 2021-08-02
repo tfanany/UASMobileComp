@@ -1,0 +1,10 @@
+{
+  "Pemesanan" : [ null, {
+    "address" : "Kudus",
+    "batik" : "Sidokmukti",
+    "gmail" : "Fany@gmail.com",
+    "harga" : 90000,
+    "name" : "Fany",
+    "telepon" : "089337282"
+  } ]
+}
